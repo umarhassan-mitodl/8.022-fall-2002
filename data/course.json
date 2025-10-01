@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "68759621-4a03-5c34-d208-ad06b8393219",
+  "instructors": {
+    "content": [
+      "3e8e5abe-b6a0-77a2-b1b8-e9c23872716d",
+      "3adb760d-56d9-5b6b-28ed-8f6578dd315a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "38147134-8c0b-a756-b701-08ff3caac03b",
+    "website": "8-022-physics-ii-electricity-and-magnetism-fall-2002"
+  },
+  "course_title": "Physics II: Electricity and Magnetism",
+  "hide_download": true,
+  "course_description": "Parallel to 8.02: Physics II, but more advanced mathematically. Some knowledge of vector calculus assumed. Maxwell's equations, in both differential and integral form. Electrostatic and magnetic vector potential. Properties of dielectrics and magnetic materials. In addition to the theoretical subject matter, several experiments in electricity and magnetism are performed by the students in the laboratory.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.022",
+  "course_image_thumbnail": {
+    "content": "7b8cf1e0-a9ec-7c93-3583-180fcee800f7",
+    "website": "8-022-physics-ii-electricity-and-magnetism-fall-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "951a302f-6200-4b1f-b870-8f91e431b97b",
+  "site_short_id": "8.022-fall-2002",
+  "site_url_path": "courses/8-022-physics-ii-electricity-and-magnetism-fall-2002",
+  "title": "Course Metadata"
+}
